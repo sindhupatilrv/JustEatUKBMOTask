@@ -25,6 +25,8 @@ Automation Test Coverage
 The test script will be covering the end to end case means until checkout the food. However, I have introduced selenium with Java script until Add Pizza Deal to inbox(). 
 
 
+tell me about yourself json and technical question md files are in resources folder 
+
 
 
 
