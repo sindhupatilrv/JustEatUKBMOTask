@@ -10,13 +10,7 @@ Execution Step
 Precondition - Chrome Software is required to run this script 
 Download the this code the from Git Hub then clone 
 
-Importing into local machine
-==========================
 
-git clone "rep link"  or
-open Eclipse IDE -> File -> Import -> Project from Git -> clone URL -> give details -> select branch(if any) -> Okey
-
-Run this script on Eclipse 
 
 
 Automation Test Coverage 
